@@ -1,0 +1,30 @@
+{
+  "gameState": {
+    "currentRound": 0,
+    "currentQuestion": -1,
+    "questionActive": false,
+    "questionStartTime": 0,
+    "questionEndsAt": 0,
+    "revealed": false,
+    "revealMode": false,
+    "showLeaderboard": false,
+    "leaderboard": {
+      "visible": false,
+      "rows": [],
+      "round": ""
+    },
+    "round1Complete": false,
+    "round2Complete": false,
+    "gameOver": false,
+    "r1QualifyPercent": 80,
+    "r2QualifyPercent": 60,
+    "r1TimerDuration": 10,
+    "r2TimerDuration": 45,
+    "currentQuestionData": null,
+    "currentCorrectAnswer": null,
+    "currentExplanation": null,
+    "currentWhyText": null,
+    "currentFixText": null
+  },
+  "teams": {}
+}
